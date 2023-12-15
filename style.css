@@ -19,7 +19,7 @@ body {
     width: 80%;
     height: 700px;
     flex-flow: column;
-    background: url(/assets/images/background-pattern-desktop.svg);
+    background: url(/assets/images/background-pattern-mobile.svg);
     position: relative;
     padding: 50px;
     font-family: sans-serif;
