@@ -81,7 +81,7 @@ body {
 }
 
 .wrapper .parent-tab label:hover {
-    color: hsl(0, 64%, 47%);
+    filter: brightness(1.5);
     cursor: pointer;
 }
 
